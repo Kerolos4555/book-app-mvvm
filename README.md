@@ -42,6 +42,8 @@ Check out the other version of this app, implemented using Clean Architecture: [
 
 ![Image](https://github.com/user-attachments/assets/fd005786-655a-424a-9f0f-b54d5484b74d)
 
+![Image](https://github.com/user-attachments/assets/74a3d82d-4f5e-41f3-99b2-0c3f0fb66120)
+
 ## 📄 Details Screen
 
 ![Image](https://github.com/user-attachments/assets/570c02ca-c2d7-4354-b9d8-7e01e6623242)
