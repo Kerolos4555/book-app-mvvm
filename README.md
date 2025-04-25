@@ -46,6 +46,12 @@ Check out the other version of this app, implemented using Clean Architecture: [
 
 ![Image](https://github.com/user-attachments/assets/570c02ca-c2d7-4354-b9d8-7e01e6623242)
 
+## 🔗 Book Preview
+
+![Image](https://github.com/user-attachments/assets/233a2213-1c91-43a2-a1e0-311e70c04fa9)
+
+![Image](https://github.com/user-attachments/assets/df6c8ba2-4613-4029-9ebd-83a550636fe6)
+
 ## 🔍 Search Screen
 
 ![Image](https://github.com/user-attachments/assets/da3e82ef-0ae5-490a-acae-bd471d698171)
@@ -55,12 +61,3 @@ Check out the other version of this app, implemented using Clean Architecture: [
 ![Image](https://github.com/user-attachments/assets/18e1b43c-cc2f-4ed6-97d1-52179c80d6d6)
 
 ![Image](https://github.com/user-attachments/assets/d20fa249-c8ed-4aae-9ebc-613499790a5b)
-
-## 🔗 Book Preview
-
-![Image](https://github.com/user-attachments/assets/233a2213-1c91-43a2-a1e0-311e70c04fa9)
-
-![Image](https://github.com/user-attachments/assets/df6c8ba2-4613-4029-9ebd-83a550636fe6)
-
-
-<img src="https://github.com/user-attachments/assets/233a2213-1c91-43a2-a1e0-311e70c04fa9" width="300" height="600" />
