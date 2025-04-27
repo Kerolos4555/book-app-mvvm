@@ -34,32 +34,43 @@ Check out the other version of this app, implemented using Clean Architecture: [
 
 ## 🚀 Splash Screen
 
-![Image](https://github.com/user-attachments/assets/44e0af44-bc15-455b-a8b6-2ac181da0909)
+<img src="https://github.com/user-attachments/assets/44e0af44-bc15-455b-a8b6-2ac181da0909" width="300" height="700" />
+<br>
 
 ## 🏠 Home Screen
 
-![Image](https://github.com/user-attachments/assets/ee2316e6-7106-405d-be9e-854566b6f871)
+<img src="https://github.com/user-attachments/assets/ee2316e6-7106-405d-be9e-854566b6f871" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/fd005786-655a-424a-9f0f-b54d5484b74d)
+<img src="https://github.com/user-attachments/assets/fd005786-655a-424a-9f0f-b54d5484b74d" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/74a3d82d-4f5e-41f3-99b2-0c3f0fb66120)
+<img src="https://github.com/user-attachments/assets/74a3d82d-4f5e-41f3-99b2-0c3f0fb66120" width="300" height="700" />
+<br>
 
 ## 📄 Details Screen
 
-![Image](https://github.com/user-attachments/assets/570c02ca-c2d7-4354-b9d8-7e01e6623242)
+<img src="https://github.com/user-attachments/assets/570c02ca-c2d7-4354-b9d8-7e01e6623242" width="300" height="700" />
+<br>
 
 ## 🔗 Book Preview
 
-![Image](https://github.com/user-attachments/assets/233a2213-1c91-43a2-a1e0-311e70c04fa9)
+<img src="https://github.com/user-attachments/assets/233a2213-1c91-43a2-a1e0-311e70c04fa9" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/df6c8ba2-4613-4029-9ebd-83a550636fe6)
+<img src="https://github.com/user-attachments/assets/df6c8ba2-4613-4029-9ebd-83a550636fe6" width="300" height="700" />
+<br>
 
 ## 🔍 Search Screen
 
-![Image](https://github.com/user-attachments/assets/da3e82ef-0ae5-490a-acae-bd471d698171)
+<img src="https://github.com/user-attachments/assets/da3e82ef-0ae5-490a-acae-bd471d698171" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/d6e44580-4d6f-451b-965a-feb0dbab5956)
+<img src="https://github.com/user-attachments/assets/d6e44580-4d6f-451b-965a-feb0dbab5956" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/18e1b43c-cc2f-4ed6-97d1-52179c80d6d6)
+<img src="https://github.com/user-attachments/assets/18e1b43c-cc2f-4ed6-97d1-52179c80d6d6" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/d20fa249-c8ed-4aae-9ebc-613499790a5b)
+<img src="https://github.com/user-attachments/assets/d20fa249-c8ed-4aae-9ebc-613499790a5b" width="300" height="700" />
+<br>
